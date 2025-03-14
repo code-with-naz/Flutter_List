@@ -20,3 +20,4 @@ This project is a Flutter application that fetches data from an API and displays
    ```sh
    git clone https://github.com/code-with-naz/Flutter_List.git
    cd Flutter_List
+![Screenshot (16)](https://github.com/user-attachments/assets/ede3f85f-5a80-4735-b15b-8c380713c8ed)
