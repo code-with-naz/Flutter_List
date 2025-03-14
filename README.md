@@ -20,4 +20,17 @@ This project is a Flutter application that fetches data from an API and displays
    ```sh
    git clone https://github.com/code-with-naz/Flutter_List.git
    cd Flutter_List
+
+I run this app on windows platform , you can run on mobile, windows and chrome as well.
+
 ![Screenshot (16)](https://github.com/user-attachments/assets/ede3f85f-5a80-4735-b15b-8c380713c8ed)
+
+After Scrolling the page
+
+![Screenshot (17)](https://github.com/user-attachments/assets/ed5c2922-f265-4dbd-a078-291b7eba9d2e)
+
+After click on that arrow
+
+![Screenshot (18)](https://github.com/user-attachments/assets/0c97406d-cd3e-4e37-a71c-7cc49f64f9a1)
+
+
